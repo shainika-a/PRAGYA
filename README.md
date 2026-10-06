@@ -859,31 +859,6 @@ The goal is to make the reasoning behind a decision visible rather than simply d
 
 ---
 
-## Key Features
-
-| Capability                            | PRAGYA |
-| ------------------------------------- | ------ |
-| Hidden ground truth                   | Yes    |
-| Trainee-specific information state    | Yes    |
-| Communication degradation             | Yes    |
-| Message loss and latency              | Yes    |
-| Information freshness                 | Yes    |
-| Conflicting reports                   | Yes    |
-| Decision probes                       | Yes    |
-| Confidence tracking                   | Yes    |
-| Order / ACK lifecycle                 | Yes    |
-| Judgment regret                       | Yes    |
-| Information regret                    | Yes    |
-| Information-gap provenance            | Yes    |
-| Deterministic replay                  | Yes    |
-| Trainee / Truth / Communication views | Yes    |
-| After-Action Review                   | Yes    |
-| Cross-mission analytics               | Yes    |
-| Multiple scenarios                    | Yes    |
-| Backend-controlled simulation         | Yes    |
-
----
-
 ## Future Extensions
 
 Possible future development includes:
